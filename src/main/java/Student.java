@@ -126,8 +126,6 @@ public class Student {
 
         student.downGrade();
         System.out.println("DOWNGRADE: " + student.getGrade());
-
-
     }
 
 }
